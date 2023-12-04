@@ -42,7 +42,7 @@ Keys pressed: `bash test.sh -> <Enter>`
 
 
 
-Keys pressed: `Vim ListExamples.java -> Shift+g -> k (6 times) -> e -> x -> i -> 2 -> esc -> :wq -> <Enter>`
+Keys pressed: `Vim ListExamples.java -> <Enter> -> Shift+g -> k (6 times) -> e -> x -> i -> 2 -> esc -> :wq -> <Enter>`
 
 
 
@@ -66,6 +66,6 @@ Keys pressed: `bash test.sh -> <Enter>`
 
 
 
-Keys pressed: `git commit ListExamples.java -> <Enter> -> a -> h -> i -> esc -> :wq -> <Enter> -> git push git@github.com:jiaweihuang22/lab7.git -> <Enter>`
+Keys pressed: `git commit ListExamples.java -> <Enter> -> i -> h -> i -> esc -> :wq -> <Enter> -> git push git@github.com:jiaweihuang22/lab7.git -> <Enter>`
 
 
