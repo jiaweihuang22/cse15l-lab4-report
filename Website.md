@@ -62,7 +62,7 @@ Keys pressed: `bash test.sh -> <Enter>`
 
 
 
-![Image](Step9.png)
+![Image](step9.png)
 
 
 
